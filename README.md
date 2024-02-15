@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 <h3 align="left">Databases:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="30">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <h3>Tools and Technologies:</h3>
