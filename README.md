@@ -30,7 +30,7 @@ Professional Experiences:
       "Organization": "ARCX",
     },
     {
-      "Role": "Software Developer Developer"
+      "Role": "Software Developer Intern"
       "Organization": "Ericsson",
     }
   ]
