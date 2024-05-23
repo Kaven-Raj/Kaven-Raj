@@ -26,11 +26,15 @@ Professional Experiences:
   "Interests": ["Machine Learning", "Backend Development", "Embedded Development"],
   "Professional Experiences": [
     {
-      "Role": "Embedded Developer Intern"
+      "Role": "Data Engineer Intern"
+      "Organization": "Dandy",
+    },
+    {
+      "Role": "Embedded Software Engineer Intern"
       "Organization": "ARCX",
     },
     {
-      "Role": "Software Developer Intern"
+      "Role": "Software Engineer Intern"
       "Organization": "Ericsson",
     }
   ]
