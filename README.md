@@ -26,6 +26,10 @@ Professional Experiences:
   "Interests": ["Machine Learning", "Backend Development", "Embedded Development"],
   "Professional Experiences": [
     {
+      "Role": "Software Engineer Intern"
+      "Organization": "Nirmata",
+    },
+    {
       "Role": "Data Engineer Intern"
       "Organization": "Dandy",
     },
@@ -56,6 +60,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <a href="https://www.linkedin.com/in/kavenr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="30"></a>
 
 <h3 align="left">Languages:</h3>
@@ -97,3 +102,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
+-->
